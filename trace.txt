@@ -1,0 +1,3 @@
+#var1.trace('w', get_values1)
+
+#var2.trace('w', get_values2)
